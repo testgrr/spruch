@@ -14,6 +14,8 @@ Du !
 
 --
 
-2)
+2) http://www.wolframalpha.com/input/?i=sqrt(sin(x)**2%20plus%20cos(x)**2)%20plus%20exp(i2pi)=sum(0.5**k,k=0..inf)
+
+(1+1==2)
 
 --
