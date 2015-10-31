@@ -18,9 +18,9 @@ Du !
 
  1+1==2
  
- [![ 1+1==2 ](http://i.snag.gy/Gxqsa.jpg)](http://i.snag.gy/Gxqsa.jpg)
+ [![ 1+1==2 ](http://i.snag.gy/Gxqsa.jpg)](http://i.snag.gy/Gxqsa.jpg)    del http://snag.gy/deleteImage.php?return=1&hash= Gxqsa
 
-del http://snag.gy/deleteImage.php?return=1&hash= Gxqsa
+ [![ 1+1==2 ](http://snag.gy/KvyiA.jpg)](http://snag.gy/KvyiA.jpg)    http://snag.gy/profile#test***com
 
 --
 
