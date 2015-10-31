@@ -20,7 +20,7 @@ Du !
  
  [![ 1+1==2 ](http://i.snag.gy/Gxqsa.jpg)](http://i.snag.gy/Gxqsa.jpg)
 
-del http://snag.gy/deleteImage.php?return=1&hash=Gxqsa
+del http://snag.gy/deleteImage.php?return=1&hash= Gxqsa
 
 
 
