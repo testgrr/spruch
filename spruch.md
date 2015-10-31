@@ -17,7 +17,7 @@ Du !
 2) http://www.wolframalpha.com/input/?i=sqrt(sin(x)**2%20plus%20cos(x)**2)%20plus%20exp(i2pi)=sum(0.5**k,k=0..inf)
 
  [1+1==2] <img>http://snag.gy/Gxqsa.jpg</img>    
- ! http://i.snag.gy/Gxqsa.jpg
+ ! [] [http://i.snag.gy/Gxqsa.jpg]
  
 del http://snag.gy/deleteImage.php?return=1&hash=Gxqsa
 
