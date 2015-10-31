@@ -1,6 +1,4 @@
 ### spruch
-
-
 --
 1)
 
@@ -13,5 +11,6 @@ Du das find ich
 Doof
 
 Du !
-
+--
+2)
 --
