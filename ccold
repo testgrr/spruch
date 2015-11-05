@@ -5,13 +5,18 @@ https://raw.githubusercontent.com/testgrr/spruchccoldusw/master/ccold
 http://old.etherpad-mozilla.org/22 # <--x http://etherpad.mozilla.org/22
 http://htmlpad.org/22/edit # x http://htmlpad.org/22
 https://jsbin.com/kemiqa/1/edit?html,output
---cc22cc {- ohne s besser ! -}
-http://old.etherpad-mozilla.org/22 
+--cc22cc  {- ohne s besser ! -}
 http://jsbin.com/kemiqa
-[]login?  http://output.jsbin.com/yuyogi 
---ccpicpaste
+old: []login?  http://output.jsbin.com/yuyogi 
+http://old.etherpad-mozilla.org/22 
+--ccpicpaste  {- ccpic1..6 -}
+http://output.jsbin.com/xufuqe
+old: http://jsbin.com/nopoda
 https://old.etherpad-mozilla.org/ccpic
-http://jsbin.com/nopoda
+--ccsol
+http://jsbin.com/cucosi
+old: http://output.jsbin.com/qoyuyo
+https://old.etherpad-mozilla.org/855504b46c1c4f574681f7e30e16852a2216a9a7
 --
 
 --
