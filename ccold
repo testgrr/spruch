@@ -4,14 +4,16 @@ https://gist.github.com/testgrr/2a35b257755aff2bbaf1
 https://raw.githubusercontent.com/testgrr/spruchccoldusw/master/ccold
 http://old.etherpad-mozilla.org/22 # <--x http://etherpad.mozilla.org/22
 http://htmlpad.org/22/edit # x http://htmlpad.org/22
---
-ohne s besser !
-http://old.etherpad-mozilla.org/22 
-cc22cc  http://jsbin.com/kemiqa
-[]login?  http://output.jsbin.com/yuyogi 
 https://jsbin.com/kemiqa/1/edit?html,output
+--cc22cc {- ohne s besser ! -}
+http://old.etherpad-mozilla.org/22 
+http://jsbin.com/kemiqa
+[]login?  http://output.jsbin.com/yuyogi 
+--ccpicpaste
+https://old.etherpad-mozilla.org/ccpic
+http://jsbin.com/nopoda
 --
 
-
+--
 
 ----
